@@ -1,5 +1,5 @@
 # Podcast-Mochila-e-Estilo
-O objetivo do chat foi dar dicas de viagens para mulheres que desejam viajar sozinhas, com foco em economia e segurança. O podcast em estilo descontraído, também deu dicas de utilização das vantagens para viagens do cartões Caixa - obtidas no site público.
+O objetivo do podcast foi dar dicas de viagens para mulheres que desejam viajar sozinhas, com foco em economia e segurança. O podcast em estilo descontraído, também deu dicas de utilização das vantagens para viagens do cartões Caixa - obtidas no site público.
 
 
 ## 💻 Tecnologias utilizadas no projeto
